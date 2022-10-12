@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+    padding: 2rem;
+    padding-left: 4rem;
+    background-image: url("Images/");
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("Images/banner.jpeg");
+    background-position: center;
+    background-size: cover;
+    /* position: relative; */
+     font-size: large;
+    color: white;
+    /* font: bolder white; */
+    /* font-variant: small-caps; */
+    font-variant-caps: all-petite-caps;
+}
+
+details {
+    margin: 2rem 10rem;
+}
+
+details > div {
+    padding: 1rem;
+}
+.question {
+
+}
+
+.question > summary {
+
+}
+
+.question > div {
+
+}
+
+#question-1[open] {
+    /* background-color: red; */
+}
